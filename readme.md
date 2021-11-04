@@ -1,4 +1,4 @@
-#PopcornPlz Log
+# PopcornPlz Log
 
 Thursday, November 4, 2021
 I made a lot of progress on this project today. My programming is definitely a little rusty.
